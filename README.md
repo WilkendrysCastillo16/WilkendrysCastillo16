@@ -11,6 +11,8 @@
 </div>
   <h3 align="center"> Me apasiona Frontend Developer, Backend Developer y APPs</h3>
   <hr>
+ <h3 align="left"><a href="https://wilkendryscastillo16.github.io/CV-WilkendrysCastillo/">Mi Curriculum Vitae Web</a></h3>
+ <hr>
 <h3 align="left">Conéctate conmigo: </h3>
 <p align="izquierda">
 <a href="https://linkedin.com/en/https://www.linkedin.com/en/wilkendry-castillo-748490213/" target="en blanco "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wilkendry-castillo-748490213 /" height="30" width="40" /></a>
