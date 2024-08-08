@@ -9,7 +9,7 @@
    Bienvenid@s... Amantes a la Programación ❤✌.
   
 </div>
-  <h3 align="center"> Me apasiona Frontend Developer, Backend Developer y APPs</h3>
+  <h3 align="center"> Me apasiona Frontend Developer</h3>
   <hr>
  <h3 align="left"><a href="https://wilkendryscastillo16.github.io/CV-WilkendrysCastillo/">Mi Curriculum Vitae Web</a></h3>
  <hr>
